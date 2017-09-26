@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
-    "start": "nuxt start",
+    "start": "nuxt start"
   },
   "author": "DEADBLACKCLOVER <asocio@protonmail.com>",
   "license": "GPL-3.0",
