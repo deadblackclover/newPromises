@@ -1,0 +1,16 @@
+{
+  "name": "newPromises",
+  "version": "1.0.0",
+  "description": "Popular questions about javascript with stackoverflow",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+  },
+  "author": "DEADBLACKCLOVER <asocio@protonmail.com>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "nuxt": "^1.0.0-rc8"
+  }
+}
