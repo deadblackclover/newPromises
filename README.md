@@ -1,7 +1,7 @@
 # newPromises
 Popular questions about javascript with stackoverflow
 ## Glitch
-[https://marvelous-golf.glitch.me](https://marvelous-golf.glitch.me)
+[https://new-promises.glitch.me/](https://new-promises.glitch.me/)
 ## Built with
 * Nuxt.js
 * Vue.js
