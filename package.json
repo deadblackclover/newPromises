@@ -1,5 +1,5 @@
 {
-  "name": "newPromises",
+  "name": "newpromises",
   "version": "1.0.0",
   "description": "Popular questions about javascript with stackoverflow",
   "scripts": {
@@ -7,7 +7,7 @@
     "build": "nuxt build",
     "start": "nuxt start"
   },
-  "author": "DEADBLACKCLOVER <asocio@protonmail.com>",
+  "author": "DEADBLACKCLOVER <deadblackclover@protonmail.com>",
   "license": "GPL-3.0",
   "dependencies": {
     "axios": "^0.16.2",
