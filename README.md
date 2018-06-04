@@ -6,11 +6,10 @@ Popular questions about javascript with stackoverflow
 * Nuxt.js
 * Vue.js
 
-## Installation
-Here is a simple Ames setup:
+## Run
 ```bash
-git clone https://github.com/deadblackclover/newPromises.git
 npm install
+npm run build
 npm run start
 ```
 ## Changelog
