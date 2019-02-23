@@ -27,7 +27,7 @@
       </div>
     </div>
     <div class="footer">
-      Open-Source project by <a href="https://bitbucket.org/deadblackclover">DEADBLACKCLOVER</a>
+      Open-Source project by <a href="https://gitlab.com/deadblackclover">DEADBLACKCLOVER</a>
     </div>
   </div>
 </template>
